@@ -36,6 +36,12 @@ Hacktoberfest is a celebration open to everyone in our global community.
 Pull requests can be made in any GitHub-hosted repositories/projects.
 You can sign up anytime between October 1 and October 31.
 
+### Win a cool Hacktoberfest tee or tree reward.
+
+**Rules:-**Must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate. This year, the first 70,000 participants who successfully complete the challenge will be eligible to receive a prize.
+
+<img align='right' src="https://media0.giphy.com/media/Vbc7U1tri0XBaoISJ4/giphy.gif?cid=ecf05e470dac240e276ce9adfb5bcf37612c675b26bf9dd3&rid=giphy.gif" width="230">
+
 ### Fork this repo.
 
 This repo is created specially for the new developers who are learing to code and want to contribute to the projects.<br />
@@ -49,5 +55,7 @@ When I started to contribute to open source it was difficult to find the project
 Many freshers feel the same before contributing to open source.
 I have created this sample repo where I am happy to merge your simple logic it doesn't matter if its ruby, C, C++, C#, java.
 I am happy to merge even if its simple hello world.
+
+### Start contributing Today.
 
 ## Happy Learning
