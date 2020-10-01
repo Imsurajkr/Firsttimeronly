@@ -1,4 +1,4 @@
-# Firsttimeronly
+# Firsttimeronly <img align='center' src="media/logo.svg" alt="Awesome">
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 
@@ -26,5 +26,9 @@
  |--|--|--|--|--|
 
 ## Hacktober contributers are always welcomed 
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+<img align='right' src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="230">
+
+
 
 ## Happy Learning
