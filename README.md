@@ -10,13 +10,21 @@
 
 **This project is created for the coders who are new to open source and want to contribute.**
 
-**Tools**
- 
- <img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>|<img alt="Fedora" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg"/>
- |--|--|--|--|--|
+## Welcome to the project 
 
  **Languages and Frameworks**
  
  <img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"/>|<img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>
- |--|--|--|--|--|--|--|
+ |<img alt="Java" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/java.svg"/>|
+ |<img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg"/>
+ |--|--|--|
 
+ **Fork this repo add your lines of magic create a PR [ pull request ]**
+ 
+ **Tools and Framework you may wanna try**
+ <img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>|<img alt="Fedora" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg"/>
+ |--|--|--|--|--|
+
+## Hacktober contributers are always welcomed 
+
+## Happy Learning
