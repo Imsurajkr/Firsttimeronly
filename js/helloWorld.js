@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>
 # this is starting of body tag
 <body>
@@ -7,7 +7,7 @@
 
   <script>
     alert( 'Hello, world!' );
-console.log("Hello Suraj Bhaiya");
+    console.log("Welcome jarvis");
   </script>
    
   <p>...After the script.</p>
@@ -15,4 +15,4 @@ console.log("Hello Suraj Bhaiya");
 </body>
 
 </html>
- 
+ !
