@@ -1,0 +1,8 @@
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+
+df = pd.DataFrame([1,2,3,4])
+df1 = pd.DataFrame([1,2,3,4])
+plt.scatter(df,df1)
+plt.show()
